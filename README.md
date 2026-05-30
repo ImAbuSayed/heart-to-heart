@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/heart-to-heart/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Heart To Heart](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/heart-to-heart/) |
+| **Get License** | [Request Licensing for Heart To Heart](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/heart-to-heart/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Shadows falling across the wooden floor
+> I’ve been waiting to walk you through that door
+> There's a fire burning, steady and bright
+> We’re leaving the heavy world outside tonight
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
