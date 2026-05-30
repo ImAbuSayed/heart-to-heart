@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/heart-to-heart/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Heart To Heart](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/heart-to-heart/) |
+| **Get License** | [Official Music Licensing for Heart To Heart](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/heart-to-heart/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `f47a9ecac19fb0bb56f8f48f824dc5682d4f184a7e4cf2d327e2ecae571f208e` |
 | **Timestamp** | May 30, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
